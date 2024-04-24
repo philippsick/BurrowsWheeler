@@ -7,4 +7,4 @@ The Burrows–Wheeler data compression algorithm consists of three algorithmic c
 2. Move-to-front encoding. Given a text file in which sequences of the same character occur near each other many times, convert it into a text file in which certain characters appear much more frequently than others.
 3. Huffman compression. Given a text file in which certain characters appear much more frequently than others, compress it by encoding frequently occurring characters with short codewords and infrequently occurring characters with long codewords.
 
-For the assignement, I implement the Burrows–Wheeler and move-to-front components.
+For the assignment, I implement the Burrows–Wheeler and move-to-front components.
